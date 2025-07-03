@@ -1,7 +1,7 @@
 HTML Core Concepts - Definitions, Attributes, and Examples
 
 1. HTML (HyperText Markup Language)
-Definition: HTML is the standard markup language used to create and structure content on web pages. It defines elements like headings, paragraphs, links, images, and more, telling the browser how to display them.
+Definition: HTML is the standard markup language used to create and structure content on web pages. It defines elements  like headings, paragraphs, links, images, and more, telling the browser how to display them.
 Example:
 <!DOCTYPE html>
 <html>
